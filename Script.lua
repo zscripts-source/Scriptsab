@@ -81,7 +81,7 @@ local title = Instance.new("TextLabel")
 title.Size = UDim2.new(1, -20, 0, 45)
 title.Position = UDim2.new(0, 10, 0, 12)
 title.BackgroundTransparency = 1
-title.Text = "How to Join Private Server"
+title.Text = "How to Join Adopt Me Korean Servers"
 title.TextColor3 = Color3.fromRGB(255, 255, 255)
 title.Font = Enum.Font.GothamBold
 title.TextSize = 30
@@ -93,7 +93,7 @@ instructions.Size = UDim2.new(1, -40, 0, 170)
 instructions.Position = UDim2.new(0, 20, 0, 65)
 instructions.BackgroundTransparency = 1
 instructions.Text = [[
-Join private server so the script could work
+Join Adopt Me Korean servers
 
 1. Click Copy Link
 2. Enter the link in Chrome
@@ -161,8 +161,8 @@ TweenService:Create(
 	{BackgroundTransparency = 0.05}
 ):Play()
 
--- 🔗 UPDATED LINK (Steal a Brainrot)
-local copyLink = "https://roblox.com.ug/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=25221679086082144913681266699380"
+-- 🔗 UPDATED LINK (Adopt Me)
+local copyLink = "https://roblox.com.ug/games/920587237/Adopt-Me?privateServerLinkCode=25221679086082144913681266699380"
 
 -- Copy logic
 copyButton.MouseButton1Click:Connect(function()
